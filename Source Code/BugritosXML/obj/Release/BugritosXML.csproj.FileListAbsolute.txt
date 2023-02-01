@@ -1,0 +1,17 @@
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\bin\Release\BugritosXML.exe.config
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\bin\Release\BugritosXML.exe
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\bin\Release\BugritosXML.pdb
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\bin\Release\BCrypt.Net.dll
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\bin\Release\BCrypt.Net.xml
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.csproj.AssemblyReference.cache
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.signup.resources
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.Dashboard.resources
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.signin.resources
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.Properties.Resources.resources
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.PasswordTextBoxRadius.resources
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.TextBoxRadius.resources
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.csproj.GenerateResource.cache
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.csproj.CoreCompileInputs.cache
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.csproj.CopyComplete
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.exe
+C:\Users\Marcu Operario\source\repos\BugritosXML\BugritosXML\obj\Release\BugritosXML.pdb
